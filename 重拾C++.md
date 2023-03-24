@@ -415,6 +415,10 @@ int main(){
 	double x;
 	scanf("%lf",&x);
 	printf("%.2lf",x);
+    
+    //test 例子：
+	double n = 12.12599;
+	printf("%.2lf", n); //除；1会保留两位小数，还会四舍五入
 	return 0;
 }
 

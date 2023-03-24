@@ -105,5 +105,47 @@
     <ClCompile Include="成绩分析.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="空间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="排序.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="蛇形填数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="跑步锻炼.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="货物摆放.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="七段码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="既约分数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="时间显示.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-071 前世档案.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-072 刮刮彩票.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-083 谁能进图书馆.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-079 天梯赛的善良.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-080 乘法口诀数列.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="L1-087 机工士姆斯塔迪奥.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

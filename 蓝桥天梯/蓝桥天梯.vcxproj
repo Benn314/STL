@@ -151,9 +151,16 @@
     <ClCompile Include="L1-056 猜数字.cpp" />
     <ClCompile Include="L1-059 敲笨钟.cpp" />
     <ClCompile Include="L1-064 估值一亿的AI核心代码.cpp" />
+    <ClCompile Include="L1-071 前世档案.cpp" />
+    <ClCompile Include="L1-072 刮刮彩票.cpp" />
+    <ClCompile Include="L1-079 天梯赛的善良.cpp" />
+    <ClCompile Include="L1-080 乘法口诀数列.cpp" />
+    <ClCompile Include="L1-083 谁能进图书馆.cpp" />
     <ClCompile Include="L1-085 试试手气.cpp" />
     <ClCompile Include="L1-086 斯德哥尔摩火车上的题.cpp" />
+    <ClCompile Include="L1-087 机工士姆斯塔迪奥.cpp" />
     <ClCompile Include="test.cpp" />
+    <ClCompile Include="七段码.cpp" />
     <ClCompile Include="作物杂交.cpp" />
     <ClCompile Include="单词分析.cpp" />
     <ClCompile Include="卡片.cpp" />
@@ -162,12 +169,19 @@
     <ClCompile Include="字符串大小写转换.cpp" />
     <ClCompile Include="成绩分析.cpp" />
     <ClCompile Include="成绩统计.cpp" />
+    <ClCompile Include="排序.cpp" />
     <ClCompile Include="数字三角形.cpp" />
+    <ClCompile Include="既约分数.cpp" />
+    <ClCompile Include="时间显示.cpp" />
     <ClCompile Include="杨辉三角形【第十二届】【省赛】【B组】.cpp" />
     <ClCompile Include="源.cpp" />
+    <ClCompile Include="空间.cpp" />
+    <ClCompile Include="蛇形填数.cpp" />
     <ClCompile Include="试题 基础练习 回文数.cpp" />
     <ClCompile Include="试题 算法训练 礼物.cpp" />
+    <ClCompile Include="货物摆放.cpp" />
     <ClCompile Include="超级质数.cpp" />
+    <ClCompile Include="跑步锻炼.cpp" />
     <ClCompile Include="门牌制作.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
