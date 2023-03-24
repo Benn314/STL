@@ -1,8 +1,10 @@
 #include <iostream>
 using namespace std;
 
+int a[200][200];
+
 int main() {
-	int a[200][200],N,M,Q;
+	int N,M,Q;
 	//≥ı ºªØ
 	for (int i = 0; i < 200; i++)
 	{
