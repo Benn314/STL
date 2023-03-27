@@ -147,5 +147,8 @@
     <ClCompile Include="L1-087 机工士姆斯塔迪奥.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="L1-088 静静的推荐.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

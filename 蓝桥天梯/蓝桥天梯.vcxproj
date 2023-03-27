@@ -159,6 +159,7 @@
     <ClCompile Include="L1-085 试试手气.cpp" />
     <ClCompile Include="L1-086 斯德哥尔摩火车上的题.cpp" />
     <ClCompile Include="L1-087 机工士姆斯塔迪奥.cpp" />
+    <ClCompile Include="L1-088 静静的推荐.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="七段码.cpp" />
     <ClCompile Include="作物杂交.cpp" />
