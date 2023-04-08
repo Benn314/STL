@@ -139,6 +139,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="123.cpp" />
+    <ClCompile Include="BFS.cpp" />
+    <ClCompile Include="DFS.cpp" />
     <ClCompile Include="L1-011 A-B（20）.cpp" />
     <ClCompile Include="L1-020 帅到没朋友.cpp" />
     <ClCompile Include="L1-023 输出GPLT.cpp" />
@@ -160,8 +163,10 @@
     <ClCompile Include="L1-086 斯德哥尔摩火车上的题.cpp" />
     <ClCompile Include="L1-087 机工士姆斯塔迪奥.cpp" />
     <ClCompile Include="L1-088 静静的推荐.cpp" />
+    <ClCompile Include="reverse.cpp" />
     <ClCompile Include="test.cpp" />
     <ClCompile Include="七段码.cpp" />
+    <ClCompile Include="二分查找.cpp" />
     <ClCompile Include="作物杂交.cpp" />
     <ClCompile Include="单词分析.cpp" />
     <ClCompile Include="卡片.cpp" />
