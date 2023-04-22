@@ -141,7 +141,7 @@
 //
 //int main() {
 //	string s = "lingyunmu";
-//	//cout<<s.find("u");
+//	cout<<s.find("u");
 //	s.replace(1, 1, "123");
 //	cout << s;
 //	return 0;
