@@ -179,6 +179,7 @@
     <ClCompile Include="数字三角形.cpp" />
     <ClCompile Include="既约分数.cpp" />
     <ClCompile Include="时间显示.cpp" />
+    <ClCompile Include="最长公共子串.cpp" />
     <ClCompile Include="杨辉三角形【第十二届】【省赛】【B组】.cpp" />
     <ClCompile Include="源.cpp" />
     <ClCompile Include="空间.cpp" />
